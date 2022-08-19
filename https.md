@@ -17,3 +17,6 @@ sudo systemctl restart caddy
 ```
 
 3. Now try the URL for your EC2 node using https ```https://ec2-35-86-147-34.us-west-2.compute.amazonaws.com/```
+
+
+Congratulations! You now have an AWS account and created a web server through Cloud9. We will be using this throughout the rest of the semester.
