@@ -43,6 +43,6 @@ You can see the URL for your EC2 node by going back to the AWS console, searchin
 16. You may want to look through the [Cloud9 tutorial](https://docs.aws.amazon.com/cloud9/latest/user-guide/tutorial.html) 
 to become more familiar with how Cloud9 works and how to use the dashboard.
 
-[Next Tutorial](http.md)
+[Next Tutorial](https.md)
 
 
